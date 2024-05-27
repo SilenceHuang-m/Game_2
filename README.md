@@ -1,4 +1,5 @@
 # Space Survival Game
+![Static Badge](https://img.shields.io/badge/version-%201.0.1-blue)
 
 This is my second project in 2024 that developed using the Python programming language. In this project, reflecting the classic and entertaining game mechanics, players should survive from the asteroid as long as they can.
 ## Gameplay
